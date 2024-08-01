@@ -1,0 +1,99 @@
+Promote Esports in East Africa
+July 12, 2024
+www.barbahgames.com 
+
+
+Barbah Games is focused on promoting esports in East Africa, particularly through initiatives like the search for Kenya's Fortnite champion. They aim to integrate esports into high school education to develop skills such as teamwork, strategic thinking, and digital literacy. The platform supports various stakeholders, including casual and professional gamers, high schools, government agencies, and corporate partners. Barbah Games also emphasizes the importance of early streaming for wealth creation and career opportunities in the gaming industry. For more details, you can visit their website.
+
+who is the founder 
+
+
+The founder of Barbah Games is Muriuki Andrew Wanjohi. He is passionate about leveraging esports to create new opportunities for youth in Kenya and East Africa. His vision for Barbah Games includes empowerment through gaming, integrating education with skill development, and fostering economic upliftment through technology and esports​ (GitHub)​.
+
+For more information, you can visit his GitHub profile or the Barbah Games website.
+
+what is his tie to SDGs
+
+Muriuki Andrew Wanjohi’s work with Barbah Games ties into several Sustainable Development Goals (SDGs). By promoting esports, he supports SDG 4 (Quality Education) through skill development and SDG 8 (Decent Work and Economic Growth) by creating career opportunities in gaming. His focus on technology and community empowerment also aligns with SDG 9 (Industry, Innovation, and Infrastructure) and SDG 10 (Reduced Inequalities). Through strategic partnerships and initiatives, Barbah Games aims to uplift communities and provide sustainable economic impact, aligning with SDG 17 (Partnerships for the Goals).
+
+individual SDG score is a metric each human should be assigned 
+
+Assigning an individual SDG (Sustainable Development Goals) score to each person could be a fascinating way to encourage personal responsibility and awareness towards achieving the United Nations' goals. This score could measure contributions to various SDGs, such as sustainable practices, community involvement, education, and innovation. For instance, actions like volunteering, reducing carbon footprint, and promoting gender equality could improve one's score. This metric could motivate individuals to actively participate in sustainable development, creating a more conscious and impactful society. What are your thoughts on how this could be implemented in esports and gaming communities?
+
+so barbah games is looking to give each person an SDG rating from their daily quests games
+
+Yes, Barbah Games is exploring an innovative approach by integrating SDG (Sustainable Development Goals) ratings into their daily quest games. This system would assign players a score based on their in-game actions and behaviors that align with specific SDGs. For example, players might earn points for completing tasks that promote environmental sustainability, social equity, or economic development. This initiative aims to raise awareness and encourage personal contributions towards achieving global sustainability goals through the engaging medium of gaming.
+
+we could take the platform viral if each tiktok or person helping a person and take the video with our SDG app earns a score 
+
+That sounds like an exciting and impactful idea! If Barbah Games integrates an SDG rating system with an app where users can upload TikTok videos or other social media content showing their efforts in helping others, it could go viral. Each video could earn points towards their SDG score, promoting positive actions and raising awareness. This gamified approach would not only engage users but also encourage real-world contributions to the Sustainable Development Goals, making sustainability efforts more visible and rewarding.
+
+Would you like to brainstorm more about how to develop and implement this idea?
+
+yes lets think it through. 
+
+Great! Let's break it down step by step to create a comprehensive plan for developing and implementing the SDG rating system with social media integration for Barbah Games:
+
+Step 1: Define Objectives and Metrics
+Objectives: Encourage positive real-world actions that align with the SDGs and increase user engagement through gamification.
+Metrics: SDG scores, user engagement (likes, shares, comments), number of videos uploaded, and impact on local communities.
+Step 2: Develop the App
+Core Features:
+User Profiles: Track individual SDG scores.
+Video Upload: Users upload videos of their positive actions.
+SDG Integration: Assign points based on the SDG alignment of each action.
+Leaderboard: Display top contributors to motivate participation.
+Step 3: Gamify the Experience
+Daily Quests: Specific challenges aligned with different SDGs (e.g., planting a tree, helping a neighbor).
+Rewards: Offer in-game rewards or real-life incentives (e.g., badges, exclusive content).
+Social Sharing: Enable users to share their achievements on social media platforms.
+Step 4: Leverage Social Media
+Hashtag Campaigns: Create a unique hashtag (e.g., #SDGHeroes) to track and promote user content.
+Influencer Partnerships: Collaborate with influencers to increase visibility and credibility.
+Challenges: Host regular challenges with specific themes related to different SDGs.
+Step 5: Monitor and Analyze
+Data Collection: Track engagement metrics and user feedback.
+Impact Assessment: Measure the real-world impact of user actions.
+Adjustments: Continuously refine the app and campaigns based on data and feedback.
+Step 6: Launch and Promote
+Pre-Launch: Create a buzz with teaser content and early access invitations.
+Launch Event: Host a virtual or physical event to introduce the app and its features.
+Post-Launch: Regularly update users with new quests, features, and success stories.
+Example Scenario
+Daily Quest: “Help clean up a local park and upload a video of the effort.”
+Video Upload: Users film themselves cleaning the park and post it through the app.
+Social Media Integration: Users share their video on TikTok with the hashtag #SDGHeroes.
+Points and Rewards: The app assigns points based on the SDG impact and the video’s engagement, which users can see on their profile and the leaderboard.
+Incentives: Users with the highest scores could receive in-game rewards or shoutouts on Barbah Games’ social media channels.
+Implementation Timeline
+Month 1-2: Define objectives, develop core features, and design the user interface.
+Month 3-4: Build the app, integrate SDG scoring, and test initial features.
+Month 5: Launch a beta version with selected users and gather feedback.
+Month 6: Official launch with a promotional campaign and ongoing monitoring.
+By implementing this plan, Barbah Games can effectively leverage social media to promote positive actions aligned with the SDGs, creating a viral and impactful platform for change. What do you think about this approach? Any specific areas you'd like to focus on or modify?
+
+Define objectives, develop core features, and design the user interface.
+
+Objectives
+Encourage Positive Actions: Motivate users to engage in activities aligned with the SDGs.
+Increase User Engagement: Utilize gamification to keep users engaged.
+Raise Awareness: Educate users about the SDGs and their importance.
+Measure Impact: Track and analyze the real-world impact of user actions.
+Core Features
+User Profiles: Track SDG scores and achievements.
+Video Uploads: Allow users to post videos of their positive actions.
+SDG Integration: Assign points based on the impact of actions.
+Leaderboards: Display top contributors.
+Rewards System: Offer incentives for high scores and participation.
+Social Sharing: Enable users to share their actions on social media.
+User Interface Design
+Home Screen: Overview of daily quests, user progress, and featured actions.
+Profile Page: Detailed SDG scores, badges, and personal achievements.
+Upload Section: Easy-to-use video upload and editing tools.
+Leaderboard: Ranked list of users based on their SDG scores.
+Quest Section: List of daily and weekly challenges related to SDGs.
+Notifications: Updates on new quests, rewards, and social interactions.
+This approach ensures the app is user-friendly, engaging, and impactful. What specific elements or features would you like to dive deeper into?
+
+Get started with Esports SDG Africa Cup - ESAC
+

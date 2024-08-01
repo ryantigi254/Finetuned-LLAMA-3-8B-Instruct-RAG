@@ -1,0 +1,316 @@
+
+ Driving Engagement by gamifying SDG Quests 
+At BARBAH Games, we are committed to more than just gaming; we are dedicated to making a positive impact on our world through the power of play. Our initiative, the SDG Daily Quest, is designed to blend the excitement of gaming with the important mission of educating and engaging our community on the United Nations' Sustainable Development Goals (SDGs).
+The SDG Daily Quest: A Year-Long Journey of Discovery and Impact
+Each day, members of the BARBAH Games community embark on unique quests. These daily quests are more than simple tasks; they are opportunities for our gamers to explore and document real-world examples of the SDGs in action, building up excitement to the weekend's SDG tournament. Whether it’s capturing a photo of a local education initiative for SDG 4 (Quality Education) or a community recycling program for SDG 12 (Responsible Consumption and Production), each quest encourages our gamers to see the world through the lens of sustainable development.
+Continuous Engagement and Point Accumulation
+As gamers complete their daily quests, they document their findings with photos. We want the images taken with apps that include point cloud data where possible and we will have the images geolocation tags via What3Words.  This innovative approach not only helps in verifying the quests but also contributes to creating a digital twin of the locations for reporting, fostering a deeper understanding of the impact areas.
+Every completed quest earns points, and these points accumulate throughout the year. This gamified system ensures that our gamers remain motivated, driven by the desire to climb the leaderboard and make a tangible impact in their communities.
+Corporate Quests: Engaging the Workforce
+We extend the SDG Daily Quest to the corporate world, encouraging employees to participate in SDG-related tasks within their workflow. These corporate quests are tailored to align with the company's sustainability goals and daily operations. Employees document their tasks similarly, earning points that convert into a unique currency within the BARBAH Games platform. 
+Currency Accumulation and Benefits
+The points accrued through both community and corporate quests accumulate as a currency that offers tangible benefits. This currency can be used within the BARBAH Games platform for various purposes, including:
+●	Enhancing Gameplay: Employees can trade in their currency to boost the gamers they sponsor during the Saturday SDG teams gaming competitions.
+●	Rewards and Recognition: Both gamers and corporate employees can redeem their currency for rewards such as gift cards, exclusive in-game items, and certificates of achievement.
+●	Corporate Benefits: Companies can showcase their commitment to the SDGs, boosting their brand image and engaging employees in meaningful activities.
+
+Saturday Battle royales 
+Weekly Recap and Team Formation
+At the end of each week, we celebrate the achievements of our community and corporate participants with a comprehensive weekly recap ( leaderboard recognitions) . This recap highlights the total points accumulated, showcases the top contributors, and features notable submissions. But the excitement doesn’t end there.
+Teams  categorized per SDG alignment will get to compete. The two top teams will play the Domination C4 map. The teams to play will be determined by quest submissions. Teams can solicit Quest tokens from Corporate Sponsors to get bumped into the running for the Saturday tournament. Using data we will strive to have balanced teams, ensuring that every team has a diverse mix of skills and perspectives. These teams are assigned a specific bucket of SDGs to focus on, creating a framework that not only organizes the quests but also fosters a sense of belonging and purpose among team members. The teams become national movements, generating excitement and pride in being associated with them.
+Team Formation for the SDGs
+To drive engagement and ensure a structured approach to achieving the Sustainable Development Goals (SDGs) and adhering to the 10 Global Compact Principles, we will create specialized teams within the BARBAH Games community. These teams will be themed around  the SDGs, fostering a sense of purpose, collaboration, and community involvement.
+Personality Test for Team Assignment
+Upon signing up we need to give each gamer a personality test. This test will determine their strengths, interests, and SDG passions, ensuring they are placed in a team that aligns with their personal and professional aspirations. The goal is to form balanced teams with diverse skill sets and perspectives. 
+Team Structure and Composition
+We will create a total of 7 teams, each focusing on a cluster of SDGs and represented by Astro or the Fortnite character. Each team will incorporate the 10 Global Compact Principles, ensuring that their quests and activities align with broader ethical and sustainability standards.
+Team Assignment Process
+Objective:
+To create an engaging sign-up and team assignment process that leverages the excitement of the unknown, fosters strategic collaboration, and drives the competitive spirit necessary for building teams that can compete at the highest levels, including the Esports World Cup. ( example the Harry potter sorting hat) 
+Step-by-Step Process
+1.	Invitation System
+○	Invite Tokens: Each gamer receives a set number of invite tokens every Saturday based on their leaderboard position.
+■	Leaderboard Influence: Higher-ranked players receive more tokens.
+○	Sending Invites: Players use these tokens to invite friends to join BARABH Games.
+2.	Sign-Up Process
+○	Invite Acceptance: Friends receive an invitation link, sign up for BARBAH Games, and create an account.
+○	Personality Test: New users take a comprehensive personality test designed to align their strengths, interests, and SDG passions with one of the teams.
+3.	Team Assignment
+○	Randomized Outcome: The personality test results determine the team assignment, which could place the invited friend on a different team than the inviter.
+○	Team Reveal: The new user’s team is revealed after the test, creating suspense and excitement.
+4.	Why Players Want to Be on the Same Team
+○	Esports World Cup: The top two teams at the end of the season will represent Kenya at the Esports World Cup.
+○	Team Synergy: Players who play well together and have practiced as a unit may feel they have a better chance of succeeding if they are on the same team.
+5.	Team Composition and Leaderboards
+○	Unlimited Team Size: Teams can comprise any number of players.
+○	Internal Leaderboards: Within each team, a leaderboard tracks individual performance.
+■	Top Four Selection: The top four players from each team’s leaderboard will be selected to compete for the final super team selection.
+6.	Team Swapping Mechanism
+○	Desire to Swap: If a player’s friend is placed on a different team, they may want to swap teams to play together.
+○	Using BARBAH Games Currency: Players can use in-game currency to facilitate team swaps.
+■	Trade Market: Players can offer and request swaps on a trade market, setting their own prices in BARBAH Games currency.
+7.	Weekly Allocation and Engagement
+○	Weekly Invite Token Allocation: Every Saturday, invite tokens are distributed based on leaderboard positions from the previous week.
+○	Dynamic Allocation: Adjust the number of tokens based on overall community engagement and growth metrics.
+Example Scenario
+1.	Invitation and Acceptance
+○	Jane (ranked 1st) receives 10 invite tokens on Saturday.
+○	Jane sends an invite to her friend John using one of her tokens.
+○	John accepts the invite, signs up, and takes the personality test.
+2.	Team Assignment
+○	John’s Test Results: John is assigned to the "Medics" while Jane is in the "Diplomats".
+○	Outcome: Jane and John are now on different teams, creating a potential strategic challenge because they play together all the time. 
+3.	Desire to Swap Teams
+○	Strategic Decision: Jane and John want to play on the same team because they believe they perform better together.
+○	Trade Market: Jane offers 50 BarBah Games currency to another player (Sam) in her team to swap teams with John.
+○	Swap Success: Sam agrees, and John is now on the "Diplomats" with Jane.
+Competitive Incentive
+1.	Esports World Cup
+○	Top Two Teams: The highest-ranked teams at the end of the season will represent Kenya at the Esports World Cup.
+○	Final Super Team Selection: The top four players from each of the 8 teams will compete, and the top 12 players will form a super team to compete internationally.
+2.	Internal Team Competition
+○	Team Leaderboards: Each team has a leaderboard.There is an overall leaderboard with Quest rankings and dive down to each teams leaderboard
+○	Top Performers: The top four performers within each team will be the ones to compete for the final super team selection.
+
+Team Names, Fortnite Characters, and Focus Areas
+Team: The Strategists
+●	Fortnite Character: The Balancer (Inspired by the character "Valor")
+●	Focus SDGs:
+○	SDG 1: No Poverty
+○	SDG 8: Decent Work and Economic Growth
+●	Gamer Persona: 
+○	Characteristics: Analytical, resourceful, and visionary. The Strategist excels in planning and executing long-term goals, ensuring sustainable prosperity and growth.
+Team: The Providers
+●	Fortnite Character: The Nourisher (Inspired by the character "Food Fight Tomato Head")
+●	Focus SDGs:
+○	SDG 2: Zero Hunger
+○	SDG 12: Responsible Consumption and Production
+●	Gamer Persona: 
+○	Characteristics: Compassionate, nurturing, and resourceful. The Provider is dedicated to ensuring everyone has access to essential resources and promoting sustainable practices.
+
+Team: The Medics 
+●	Fortnite Character: The Healer (Inspired by the character "Triage Trooper")
+●	Focus SDGs:
+○	SDG 3: Good Health and Well-being
+○	SDG 6: Clean Water and Sanitation
+●	Gamer Persona: The Medic
+○	Characteristics: Caring, detail-oriented, and proactive. The Medic focuses on maintaining health and well-being, ensuring access to clean water and sanitation.
+Team: The Innovators
+●	Fortnite Character: The Scholar (Inspired by the character "Tech Ops")
+●	Focus SDGs:
+○	SDG 4: Quality Education
+○	SDG 9: Industry, Innovation, and Infrastructure
+●	Gamer Persona: 
+○	Characteristics: Curious, inventive, and forward-thinking. The Innovator is passionate about learning and creating new solutions for global challenges.
+Team: The Advocates 
+●	Fortnite Character: The Equalizer (Inspired by the character "Valor")
+●	Focus SDGs:
+○	SDG 5: Gender Equality
+○	SDG 10: Reduced Inequalities
+●	Gamer Persona: The Advocate
+○	Characteristics: Fair-minded, empathetic, and driven. The Advocate is committed to fighting for equality and reducing disparities across all aspects of life.
+Team: The Builders
+●	Fortnite Character: The Architect (Inspired by the character "Constructor")
+●	Focus SDGs:
+○	SDG 7: Affordable and Clean Energy
+○	SDG 11: Sustainable Cities and Communities
+●	Gamer Persona: 
+○	Characteristics: Visionary, practical, and community-focused. The Builder designs and implements sustainable living environments that benefit everyone.
+Team: The Guardians 
+●	Fortnite Character: The Climate Guardian (Inspired by the character "Frozen Raven")
+●	Focus SDGs:
+○	SDG 13: Climate Action
+○	SDG 14: Life Below Water
+○	SDG 15: Life on Land
+●	Gamer Persona: 
+○	Characteristics: Protective, environmentalist, and action-oriented. The Guardian is dedicated to preserving and protecting the planet’s ecosystems.
+Team: The Diplomats
+●	Fortnite Character: The Peacekeeper (Inspired by the character "Sentinel")
+●	Focus SDGs:
+○	SDG 16: Peace, Justice, and Strong Institutions
+○	SDG 17: Partnerships for the Goals
+●	Gamer Persona: 
+○	Characteristics: Diplomatic, just, and collaborative. The Diplomat works to foster peace, justice, and strong partnerships, ensuring a fair and peaceful world.
+Integration of Global Compact Principles
+Each team will incorporate the 10 Global Compact Principles, ensuring their activities and quests align with these ethical standards:
+1.	Support and respect the protection of internationally proclaimed human rights.
+2.	Ensure they are not complicit in human rights abuses.
+3.	Uphold the freedom of association and the effective recognition of the right to collective bargaining.
+4.	Eliminate all forms of forced and compulsory labor.
+5.	Abolish child labor.
+6.	Eliminate discrimination in respect of employment and occupation.
+7.	Support a precautionary approach to environmental challenges.
+8.	Undertake initiatives to promote greater environmental responsibility.
+9.	Encourage the development and diffusion of environmentally friendly technologies.
+10.	Work against corruption in all its forms, including extortion and bribery.
+Gamified Engagement and Rewards
+●	Daily Quests: Each community member  will engage in daily quests.
+●	Weekly Recap: Track and celebrate weekly progress, highlighting top contributors.
+●	Saturday Competitions: Compete in team-based games, with points contributing to the overall team score.
+●	Leaderboards and Recognition: Maintain a leaderboard to track progress throughout the year. Top teams and performers will gain visibility and opportunities to represent their country in prestigious esports events such as the Esports World Cup and the Olympics.
+By structuring our teams around Fortnite characters, clusters of SDGs, and the Global Compact Principles, we ensure that each team has a clear focus and purpose, fostering a sense of unity and excitement within the BARBAH Games community. This approach not only drives engagement but also promotes education and awareness around key global issues.
+
+Saturday Battle royales G : The Climax to Quests
+Saturday is not just another day; it is the pinnacle of our community’s weekly engagement. The day kicks off with the announcement of team assignments and the SDGs each team will champion. This structure fosters a sense of camaraderie and healthy competition as teams gear up for the ultimate challenge.
+The gameplay on Saturdays is intense and strategic. Teams compete on the C4 Dominations map, using their knowledge and understanding of the SDGs to score points and outsmart their opponents. The points earned during the week from daily quests contribute to their overall team score, adding another layer of strategy and importance to the daily activities.
+Leaderboards and Global Opportunities
+Throughout the year, the SDG Daily Quest leaderboard tracks the progress and achievements of our gamers. The top performers at the end of the year will earn the honor of representing their country in prestigious events such as the Esports World Cup and the Olympics. This visibility ensures that gamers not only gain recognition within the BARBAH Games community but also attract the attention of global organizations looking to recruit top talent.
+Empowering Gamers to Form Pro Esports Teams
+The leaderboard also serves as a platform for gamers to identify potential teammates and organize their own pro esports teams. We provide the resources necessary for self-funding and organizing these teams, empowering gamers to take their passion to the next level.
+Creating a Lasting Impact
+Through the SDG Daily Quest and our Saturday gaming competitions, we are not only creating a fun and engaging environment for our gamers but also fostering a community that is knowledgeable about and committed to sustainable development. The digital twins and geolocated data collected during these quests contribute to a broader understanding of SDG implementation at a grassroots level.
+Join the Quest
+We invite all members of the BARBAH Games community and corporate partners to join us on this exciting journey. Together, we can make a difference, one quest at a time, culminating in a weekly celebration of our collective efforts every Saturday. Let’s play, learn, and drive change – for a better world, for everyone.
+
+
+
+
+
+BARBAH GAMES AVATAR 
+Branding: Introducing ASTRO
+To enhance engagement and create a cohesive branding experience for the SDG Daily Quests, BARBAH Games will introduce a central quest avatar named ASTRO. ASTRO will serve as the guide and administrator for all SDG-related activities, as well as company updates and communication within the community.
+ASTRO: Avatar for Sustainable Team Resource Optimization
+A - Avatar: Representing the BARBAH Games brand, ASTRO is a charismatic and engaging digital persona designed to connect with gamers of all ages.
+S - Sustainable: Embodying the core mission of BARBAH Games, ASTRO champions sustainable development and educates gamers about the importance of the SDGs.
+T - Team: ASTRO fosters a sense of community and teamwork, guiding gamers to form teams, collaborate on quests, and achieve their goals collectively.
+R - Resource: As a knowledge avatar, ASTRO provides valuable resources, tips, and insights to help gamers complete their quests effectively and learn more about the SDGs.
+O - Optimization: ASTRO ensures that all activities are optimized for maximum impact, making the quest experience seamless, rewarding, and educational.
+Key Features of ASTRO
+1.	Interactive Guidance: ASTRO will provide daily quest instructions, offer tips, and motivate players to complete their tasks. Through engaging dialogue and interactive elements, ASTRO will keep the community informed and inspired.
+2.	Educational Content: ASTRO will share educational content related to the SDGs, including videos, articles, and infographics, helping gamers understand the global impact of their quests.
+3.	Real-Time Updates: ASTRO will offer real-time updates on team progress, leaderboard standings, and highlight top contributors, fostering a sense of competition and achievement.
+4.	Personalized Experience: By leveraging the results of the personality tests, ASTRO will tailor interactions and quest recommendations to suit each gamer’s strengths and interests.
+5.	Community Engagement: ASTRO will facilitate discussions, host Q&A sessions, and create interactive events to build a vibrant and connected community.
+Branding Elements
+●	Visual Design: ASTRO will have a sleek, futuristic design that aligns with the aesthetic of Fortnite characters. The avatar will feature vibrant colors and dynamic animations to capture the attention of gamers.
+●	Voice and Personality: ASTRO will have a friendly, encouraging, and knowledgeable persona, making interactions enjoyable and motivating. The voice will be upbeat and positive, reinforcing the community spirit of BARBAH Games.
+●	Merchandise and Rewards: Gamers will have the opportunity to earn ASTRO-themed merchandise and in-game rewards, creating a tangible connection to the avatar and further enhancing engagement.
+Example Interaction
+Daily Quest Announcement
+"Greetings, Guardians of Prosperity! 🌟 ASTRO here, ready to guide you on today’s quest. Your mission is to find and document an example of sustainable agriculture in your community. Snap a photo, include point cloud data, and tag the location using What3Words. Let’s make a difference together! Remember, every small action counts towards achieving our SDGs. Good luck!"
+Weekly Recap
+"Amazing work this week, Innovators United! 🌟 This week’s highlights include some incredible contributions to Quality Education and Innovation. Keep up the fantastic work! Check the leaderboard to see how your team stands and prepare for the exciting Saturday competition. Together, we’re building a better world, one quest at a time."
+
+KPIs and Data Collection 
+1. User Engagement
+●	Daily Active Users (DAU)
+○	KPI Definition: Number of unique users engaging with the app daily.
+○	Data Collection: Track login timestamps and activity logs.
+○	Improvement: Implement push notifications and reminders for daily quests. Use A/B testing to determine the most effective notification times and messages.
+●	Weekly Active Users (WAU)
+○	KPI Definition: Number of unique users engaging with the app weekly.
+○	Data Collection: Aggregate DAU data over a week.
+○	Improvement: Introduce weekly recap emails or in-app messages summarizing achievements and encouraging participation in weekend activities.
+●	Session Duration
+○	KPI Definition: Average time users spend on the app per session.
+○	Data Collection: Log session start and end times.
+○	Improvement: Enhance in-app content and interactions to keep users engaged longer. Use heatmaps to understand user navigation and improve UX design. (snapmap feature) 
+2. Quest Completion Rate
+●	Daily Quest Completion Rate
+○	KPI Definition: Percentage of users completing daily quests.
+○	Data Collection: Track quest assignment and completion timestamps.
+○	Improvement: Simplify quest instructions and reduce friction points. Provide immediate feedback and rewards upon completion to motivate users.
+●	Challenge Participation Rate
+○	KPI Definition: Participation rate in midweek challenges and Saturday competitions.
+○	Data Collection: Track registration and participation logs.
+○	Improvement: Create engaging and varied challenges. Use in-app announcements and social media to build anticipation.
+3. Team Dynamics and Swapping
+●	Team Swap Transactions
+○	KPI Definition: Number of successful team swaps.
+○	Data Collection: Track swap requests, approvals, and completions.
+○	Improvement: Streamline the swap process with intuitive UI and real-time notifications. Offer incentives for swaps to enhance team dynamics.
+●	Currency Usage
+○	KPI Definition: Usage of in-game currency for various activities, including swaps.
+○	Data Collection: Log all currency transactions.
+○	Improvement: Regularly introduce new ways to earn and spend currency. Ensure the currency system is well-balanced and rewarding.
+4. Leaderboard Activity
+●	Top Performer Metrics
+○	KPI Definition: Performance metrics of top players and teams.
+○	Data Collection: Track points earned, quests completed, and other relevant stats.
+○	Improvement: Feature top performers prominently in the app and on social media. Provide detailed analytics to help players understand their performance.
+●	Leaderboard Turnover
+○	KPI Definition: Changes in leaderboard positions over time.
+○	Data Collection: Snapshot leaderboard standings at regular intervals.
+○	Improvement: Ensure fair and transparent scoring systems. Introduce periodic resets or seasons to keep competition fresh.
+5. Growth Metrics
+●	Invite Token Usage
+○	KPI Definition: Number of invites sent and accepted.
+○	Data Collection: Track invite token distribution and invite acceptance.
+○	Improvement: Reward users for successful invites. Monitor and optimize the invite process to make it seamless.
+●	New User Sign-Ups
+○	KPI Definition: Growth in the user base from invites.
+○	Data Collection: Log new user registrations and their referral sources.
+○	Improvement: Use referral bonuses and gamified sign-up processes to encourage new registrations.
+●	Retention Rate
+○	KPI Definition: Percentage of users who continue participating over a specific period (e.g., 30-day retention).
+○	Data Collection: Track user activity over time.
+○	Improvement: Introduce loyalty programs and recurring engagement activities. Regularly update content to keep the experience fresh.
+6. Corporate Engagement
+●	Corporate Participation Rate
+○	KPI Definition: Number of corporate employees participating in quests.
+○	Data Collection: Track registrations and quest completions by corporate accounts.
+○	Improvement: Offer tailored challenges for corporate participants. Provide detailed impact reports to showcase the benefits.
+●	Corporate Sponsorships
+○	KPI Definition: Number and value of corporate sponsors involved.
+○	Data Collection: Log sponsorship agreements and contributions.
+○	Improvement: Develop compelling sponsorship packages. Highlight the social impact and brand visibility benefits for sponsors.
+●	Corporate Quest Completion
+○	KPI Definition: Percentage of corporate quests completed.
+○	Data Collection: Track corporate-specific quest logs.
+○	Improvement: Align corporate quests with business goals and CSR objectives. Ensure quests are achievable and impactful.
+7. Educational Impact
+●	SDG Awareness
+○	KPI Definition: User knowledge of SDGs before and after participation.
+○	Data Collection: Conduct pre- and post-participation surveys or quizzes.
+○	Improvement: Integrate educational content into daily quests. Use engaging formats like videos and interactive infographics.
+●	Community Impact Reports
+○	KPI Definition: Documentation and reporting of the real-world impact of quests.
+○	Data Collection: Collect qualitative and quantitative data from quest submissions.
+○	Improvement: Share success stories and impact reports regularly. Use data visualization to communicate the impact effectively.
+8. Competitive Performance
+●	Esports World Cup Qualification
+○	KPI Definition: Tracking teams qualifying for the Esports World Cup.
+○	Data Collection: Monitor team performance in qualifiers and competitions.
+○	Improvement: Provide training resources and support to top teams. Highlight their journey and achievements.
+●	Super Team Formation
+○	KPI Definition: Performance of the top 12 players forming the super team.
+○	Data Collection: Track individual and team performance metrics.
+○	Improvement: Facilitate practice sessions and coaching for the super team. Publicize their progress and build community support.
+9. Financial Metrics
+●	Revenue from In-App Purchases
+○	KPI Definition: Sales of in-game currency, merchandise, and other items.
+○	Data Collection: Log all purchase transactions.
+○	Improvement: Regularly introduce new items and promotions. Ensure pricing strategies are optimized for maximum revenue.
+●	Sponsorship Revenue
+○	KPI Definition: Income from corporate sponsors.
+○	Data Collection: Track sponsorship agreements and payments.
+○	Improvement: Develop long-term partnerships with sponsors. Showcase the ROI and impact of their sponsorships.
+●	Cost of Acquisition (CAC)
+○	KPI Definition: Cost associated with acquiring a new user through invites and marketing efforts.
+○	Data Collection: Track marketing expenses and new user registrations.
+○	Improvement: Optimize marketing campaigns for efficiency. Use data analytics to target high-potential user segments.
+Data Collection Improvement Strategies
+1.	Automated Tracking
+○	Implement automated tracking systems for all user interactions and transactions.
+○	Use analytics platforms like Google Analytics, Mixpanel, or Amplitude for detailed user behavior insights.
+2.	Real-Time Analytics
+○	Deploy real-time analytics dashboards to monitor KPIs continuously.
+○	Use tools like Tableau or Power BI to visualize data and identify trends quickly.
+3.	User Feedback
+○	Regularly gather user feedback through surveys, in-app prompts, and community forums.
+○	Analyze feedback to understand user satisfaction and areas for improvement.
+4.	Data Integration
+○	Integrate data from multiple sources (app, website, social media) to get a comprehensive view of user engagement.
+○	Use ETL (Extract, Transform, Load) tools to streamline data integration and ensure data consistency.
+5.	Advanced Segmentation
+○	Segment users based on behavior, demographics, and engagement levels.
+○	Tailor marketing and engagement strategies to each segment for higher effectiveness.
+6.	Machine Learning and AI
+○	Utilize machine learning algorithms to predict user behavior and identify potential churn risks.
+○	Implement AI-driven personalization to enhance user experience and engagement.
+7.	Security and Privacy
+○	Ensure all data collection complies with privacy regulations like GDPR and CCPA.
+○	Implement robust security measures to protect user data and maintain trust.
+
+
+

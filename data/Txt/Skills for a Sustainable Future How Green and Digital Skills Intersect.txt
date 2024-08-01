@@ -1,0 +1,1028 @@
+APRIL 2024
+Skills for a Sustainable Future:
+How Green and Digital Skills Intersect 
+and Will Change the Future of Work
+Skills for a Sustainable Future April 2024 2
+Table of Contents
+Foreword 3
+The Green-Digital Revolution 5
+Measuring the Intersection of Green 
+and Digital Skills 7
+Field Workers Adopting AI 12
+Enhancing Water System Operations Resiliency 13
+Upskilling to Reduce Waste 14
+Early Career Opportunities for Workers by Global Region 16
+Conclusion: Building Skills in a Digital and Green Future 17
+Appendix 1: Skills Analysis 19
+Appendix 2: Global Skills 21
+References 22
+Skills for a Sustainable Future April 2024 3
+Foreword
+By Matt Sigelman, President of the Burning Glass Institute, and Justina Nixon-Saintil, VP and Chief 
+Impact Officer of IBM
+WHY DIGITAL SKILLING IS A CRITICAL IMPERATIVE FOR THE ENVIRONMENT, 
+THE ECONOMY, AND LEARNERS
+At the most recent Conference of the Parties 
+meeting (COP28), participants reaffirmed their 
+commitment to hold global temperature change 
+to 1.5 degrees Celsius. They also acknowledged 
+that current emissions would have to be reduced 
+by 43% from 2019 levels, and that current 
+progress was off target. 
+Why is this critical? In the last year, we witnessed 
+the damage from increased natural disasters. 
+During the summer of 2023, many people 
+experienced the existential challenge of climate 
+change. In June, New York City turned into an 
+orange haze from the wildfires hundreds of 
+miles north in Canada. In August, the once-lush 
+paradise of Maui turned into a deadly tinderbox 
+as fires spread unchecked, exacerbated by hot 
+temperatures and dry conditions. In the fall, Libya 
+experienced devastating floods. More areas of the 
+world are feeling the effects of climate change, 
+from parts of coastal Florida where homes are 
+increasingly difficult to insure due to hurricane 
+flood risk to India, where temperatures more than 
+43 degrees Celsius have become all too common. 
+Without greater action, the consequences will only 
+get worse as heat waves, storms, and dust bowls 
+intensify, causing billions in economic damage to 
+urban centers and agricultural lands alike.
+Fortunately, the world is starting to take action to 
+mitigate and slow the impact of climate change. 
+Many countries around the world have signed 
+international agreements which aim to limit 
+global warming and reduce carbon emissions. 
+Trillions of public and private capital, fueled 
+by landmark legislations are supporting the 
+deployment of proven renewable technologies 
+and the development of promising interventions 
+such as carbon capture and storage, nuclear 
+fusion, and electric vehicles.
+However, new power generation, transmission, 
+and automotive investments alone will not be 
+sufficient. To reach the goals outlined in many of 
+the international agreements, the world will also 
+need to decarbonize the entire economy, from 
+consumer manufacturing to office buildings to 
+transportation of finished goods. In addition to 
+new physical investments, technology will play 
+a major role in making existing industries more 
+energy efficient and less carbon intensive. Labor 
+skills at the intersection of green and digital will 
+also play a major role in ensuring the full and 
+rapid deployment of technologies, integrating 
+them into existing ways of working and ensuring 
+that they are properly deployed in the context 
+of their existing physical environment.
+So, what does that mean as the world adapts to a 
+changing climate and new sustainable inventions, 
+interventions, and strategies are adopted to 
+achieve global emissions targets while maintaining 
+economic growth and standards of living?
+The Burning Glass Institute and IBM believe 
+that it means new economic opportunities 
+for workers. In 2023, Burning Glass Institute 
+partnered with IBM to study and identify new 
+jobs that have emerged and explore what our 
+data says about in-demand knowledge and skills.
+Demand for cutting-edge green and digital skills 
+is creating those new job opportunities. There 
+are expanding interactions and new intersections 
+between the skills that drive a sustainable global 
+Skills for a Sustainable Future April 2024 4
+environment. These blend digital skills with many 
+that previously had been core to jobs that were 
+squarely in the green economy. Green and digital 
+jobs increasingly overlap, creating demand for 
+workers who can work with digital skills in the 
+green economy and for workers who deploy 
+core green skills across the economy.
+What do we mean when we say that digital skills 
+are intersecting with green skills and creating new 
+economic opportunities? It means that workers 
+who have worked in digital roles are increasingly 
+adopting skills like energy conservation and 
+management. It means that workers in natural 
+resource management and solar installation 
+increasingly need to understand artificial 
+intelligence (AI), technical coding languages, and 
+other digital skills as their fields adopt technology 
+that makes them less carbon-intensive. There 
+are also new and exciting roles that sit at the 
+intersection of these fields. Green-digital roles 
+like environmental data analyst and cybersecurity 
+roles that focus on maintaining grid resilience and 
+sustainability.
+While these new opportunities are exciting, there 
+are important steps that learners, workers, and 
+employers must all take to develop the skills 
+that will drive the full actualization of a greening 
+economy and labor market. Society at large – 
+businesses, educators, policymakers, and workers 
+– must all find ways to invest in building new skills 
+that will enable the green transition.
+In addition to partnering with the Burning Glass 
+Institute to develop a better understanding of 
+these intersections, IBM supports green and 
+digital skill building. Through IBM SkillsBuild, IBM 
+has launched new courses to support learners 
+and workers in building skills that will allow them 
+to be competitive at this intersection of green 
+and digital skills, and to make the world more 
+sustainable.
+Skills for a Sustainable Future April 2024 5
+The Green-Digital Revolution
+Global adoption of new and innovative 
+technologies to drive a more sustainable and less 
+carbon-intensive economy is surging. Businesses 
+and governments are investing in new infrastructure 
+and systems that help reduce environmental impact 
+and extend the useful lifetimes of existing assets 
+and strategies. Similarly, innovative solutions are 
+rapidly coming to market that make the world more 
+sustainable and resilient.
+What is driving these trends? A changing climate 
+means less predictable weather and more 
+severe weather events. These extreme events 
+threaten broad community and human health, 
+and business operations. The most recent UN 
+Intergovernmental Panel on Climate Change 
+Report identified that 3.3 billion people across 
+the globe live in areas vulnerable to significant 
+impacts from climate change. In many cases, 
+it is an economic concern that also drives 
+sustainability imperatives as communities explore 
+strategies to ensure they remain resilient to a 
+changing climate. 
+With nearly half of the global population 
+vulnerable to significant environmental impact, 
+new strategies to create a sustainable future 
+are essential. Sustainability matters across 
+corporations, organizations, governments, 
+and communities. It also means that there are 
+significant new economic opportunities and skill 
+demands for workers. IBM and the Burning Glass 
+Institute have partnered to examine trends in the 
+labor market and demand for skills that will drive a 
+sustainable future and chart a pathway for workers.
+Our analysis identified an important confluence 
+of change – the digitization and technology 
+enablement of the future of work directly 
+intersects with the greening of work that is driven 
+by investments and strategies to build a more 
+sustainable future. 
+Green skill growth is significant among highly 
+digital roles. Burning Glass observed a 93.1% 
+growth in demand for green skills from 2018–
+2023 as measured by the number of green skills 
+requested per job posting. Looking across a set 
+of jobs that are highly digitally-focused, both 
+in office and industrial settings, we observed 
+significant growth in green skill demand in job 
+postings. 
+Digital skills have become essential skills in 
+green roles. As the green sector has become 
+more pervasive and in-demand across the 
+economy, it has adopted digital strategies to 
+remain productive. Workers must now interface 
+with digital solutions as part of their core 
+responsibilities. 
+While these two trends are deeply intertwined, 
+they have different impacts on workers. As 
+roles evolve to meet the needs of the green 
+economy, new skills that enable more sustainable 
+production and consumption are increasingly at 
+the forefront of the labor market.
+We see these changes happening broadly. This 
+growth in demand for sustainability solutions 
+has created new opportunities for workers and 
+driven new forms of green-focused work and 
+created new blends of skills. For example, some 
+roles are specializing in new technologies, such 
+as applying AI to complex green infrastructure. 
+Other roles, like electricians, are seeing broad 
+growth in green skill demand, such as solar 
+installation. Smart energy technology and energy 
+load management, which are often controlled 
+by computer and microchip mean that many 
+skilled trades need to learn basic interfacing with 
+computers and coding. Both the deep and broad 
+forms of emerging and changing roles have 
+Skills for a Sustainable Future April 2024 6
+significant opportunity to create a sustainable 
+future. The rising green economy goes beyond 
+the development and deployment of new climate 
+technologies. Rather, the green revolution is 
+transforming a much wider array of occupations 
+across existing industries and functions, enabling 
+them to become more energy and cost efficient. 
+Major changes are happening for workers in 
+jobs that are often identified as “green jobs.” 
+Think of environmental consultants or installers 
+of solar panels: these workers are essential to the 
+decarbonization of the economy. Government 
+investment and consumer preferences are 
+driving this decarbonization, spurring investment 
+in productivity-enhancing technologies. 
+Unsurprisingly, workers in these industries have 
+begun to adopt new tools such as AI, to predict 
+electrical line failures or drones to monitor solar 
+farm efficiency, to become more effective. 
+Integrating green skills drives a sustainable 
+future. These are especially evident among 
+digital roles. Many roles that were typically not 
+seen as “green jobs” are now experiencing a 
+change in the skills that are demanded to be 
+effective, specifically significant growth in the 
+overall green content. While often only a small 
+portion of skill-demands in a role are green, these 
+components can have a profound overall impact 
+on an employee’s day-to-day tasks. For example, 
+a software engineer might be expected to know 
+more about energy efficiency as part of their 
+job developing large language models. These 
+emerging skill requirements will touch many 
+markets and sectors, from energy production and 
+manufacturing to transportation to construction 
+and infrastructure development.
+A sustainable future is a digital future. We have 
+seen similar transformations play out before. 
+Over the last 40 years, the digital revolution 
+rewrote the labor market, with most well-paying 
+jobs now demanding digital skills, including jobs 
+far outside the tech sector such as healthcare, 
+energy production, and hospitality. Thus far, the 
+sustainability revolution is following a similar 
+pattern. But the comparison is apt for another 
+reason: what we are experiencing today isn’t 
+just a new wave of transformation, paralleling a 
+prior generation of change. Rather, these two 
+revolutions intersect in many places. The emerging 
+green economy is increasingly an extension of 
+the digital economy while the digital world itself 
+recognizes the imperative to become greener.
+Skills for a Sustainable Future April 2024 7
+Measuring the Intersection of Green 
+and Digital Skills
+The confluence of the digital and green 
+revolutions bears out in the underlying skills 
+of work. While it may be enticing to imagine 
+that new job categories will drive a sustainable 
+future, our analysis of labor market trends and 
+the changing content of work suggests that 
+traditionally digital roles, such as computer 
+programming, will evolve to support less carbonintensive ways of working. Our analysis of the 
+confluence between digital and green skills 
+provides a first-of-its-kind view into how the 
+skills-content of jobs in these fields are changing.
+To identify trends across these different roles, 
+we performed an analysis of the skills-content 
+of millions of job ads across the globe and their 
+overall skill content. We focused on roles that 
+were in the traditionally green sectors, roles that 
+are deeply associated with the tech industry, 
+and roles that were highly focused in technology 
+and digital. We identified skills that sat at the 
+intersection of these fields and then used those 
+highly important intersectional skills to identify 
+jobs and roles that sat at the middle. Intersections 
+between these roles can be seen through three 
+job clusters: deep green roles, deep digital roles, 
+and balanced roles.
+Deep green roles are roles identified in our 
+analysis that have high shares of overall skills that 
+are associated with green skills and tend to be 
+technically skilled roles, in non-software-focused 
+positions, often in field-based work. Green skills 
+include energy efficiency, energy management, 
+and environmental regulations. These are roles 
+and occupations that are often reflected in the 
+US Department of Labor’s Bureau of Labor 
+Statistics’ or the United Nations Environmental 
+Programme’s definitions of the green sector.
+Deep digital roles are ones identified in our 
+analysis that have high concentrations of 
+digital skills. They have high technical software 
+requirements (often requiring several softwarespecific coding or technical skills), are seen 
+across multiple industrial sectors, and on average 
+have a higher propensity for remote work. While 
+generally lower in total content of green skill 
+demand, there is fast growth in demand for green 
+skills among these roles.
+Balanced roles are many that have a blend 
+of digital and green skills. These roles show 
+balanced but relatively low levels of specialized 
+requirements across both digital and green 
+skills. Sitting at the intersection of the green and 
+digital sectors are skills in data visualization, 
+automation, and data analytics. These three skills 
+are not only being deployed in the green sector 
+to meet new ways of working but they are also 
+critical skills for a growing spate of tech workers 
+– especially those specializing in green roles or
+working in the green sector. We also see crosscutting demand for professional skills such as
+communication and collaboration.
+Skills for a Sustainable Future April 2024 8
+Prevalence of Green Skills versus Digital Skills in Job Postings
+Source: Burning Glass Institute Analysis of Lightcast Job Postings Data
+4
+2
+2 4 6
+0
+Green skills per post
+Digital skills per post
+Deep Green
+• Technical, non-software
+• Quickly digitizing
+• Core to the green sector
+• Field-based
+Balanced
+• Blended roles, some
+green and digital 
+requirements
+Deep Digital
+• Highly technical
+software requirements
+• Many sectors
+• Remotable
+Category: Balanced Deep Digital Deep Green
+Skills for a Sustainable Future April 2024 9
+Critical Digital Skills Intersecting with Green Skills
+Data Analysis Automation Data Visualization Professional Skills
+ComputerScience Artificial Intelligence Data Management Collaboration
+Data Management C++ Excel Customer Service
+Data Science Calibration Python Innovation
+Excel Code Review R Leadership
+Python IBM Maximo SQL Motivational Skills
+R Java Strategic Planning
+SQL SQL Team Building
+Statistical Analysis Problem Solving
+Source: Burning Glass Institute Analysis of Lightcast Job Postings Data
+Data visualization, automation and data analytics 
+are broad bundles of skills that capture many 
+individual and specific skill sets that roll up into 
+broader skill sets. The following table shows 
+many of the individual skills that make up the 
+broader skill categories previously described.
+Green jobs now demand digital skills. Digital 
+skill demand in traditionally-defined green roles 
+– such as roles for those involved in installing
+renewable energy, cleaning, and restoring natural
+resources, or building energy efficient new
+products – has been on the rise. Deep green
+roles, typified by skilled technical work, now
+require digital skills.
+Often bespoke sets of digital skills are driving 
+the digital revolution in deeply green work. For 
+example, forestry and environmental science 
+technician roles increasingly require skills in 
+coding and interfacing with machinery using 
+software to automate machinery, replacing 
+significant amounts of potentially dangerous 
+and physically demanding manual tasks. Such 
+skills are making these technicians safer and 
+more productive while making natural resources 
+management more cost-effective. The Great Belt 
+Fixed Link and Melbourne Water case studies 
+highlighted in this report are good examples of 
+how communities, governments, and companies 
+are adopting digital skills strategies to enhance 
+the productivity of deeply green roles by digitally 
+equipping the functions and workers that serve in 
+deeply green roles.
+Digital roles are contributing to the green 
+sector. At the same time that deeply green roles 
+are digitizing; many deeply digital roles are 
+greening. Digital roles increasingly require some 
+green skill development. These growth trends 
+seem likely to continue. In our analysis of the 
+greening of deeply digital roles, we observed a 
+93.1% growth in the frequency of green skills 
+in job postings among deeply digital roles 
+from 2018–2023. In some deep digital roles, the 
+growth of green skill demand is over 200% for 
+roles in industrial settings and IT. These skills 
+Skills for a Sustainable Future April 2024 10
+Data Analyst to Environmental Data Analyst
+Data Analyst
+Environmental 
+Data Analyst
+Environmental science
+and chemistry
+SQL server management/
+relational database
+Spatial analysis
+and GIS
+Planning and workflow
+management
+IT and technical
+support Biology
+Dashboard development
+and business intelligence Data mining and science
+Data modeling Mathematics
+Economics Finance
+Data analytics
+Data management
+Statistics
+SQL programming
+Excel
+Communications
+Python / R / Research
+Tableau / Power BI
+Data visualization
+PowerPoint
+Verbal 
+communications Writing
+MS Oce
+Source: Burning Glass Institute Analysis of Lightcast Job Postings Data
+often ranged across many areas including deep 
+knowledge of a subject matter field such as 
+physical sciences, forestry, or green building 
+codes, and often included enhanced workplace 
+safety and sustainability management skills. 
+Many digital roles now require awareness of 
+specific green skills. Green roles such as energy 
+conservation and management, visualizing 
+of geospatial information, and greening and 
+automation of processes are evident across 
+deeply digital roles. While these workers are 
+rarely classified as green through traditional 
+measures, the green functions they play are 
+incredibly important to making the economy 
+more sustainable.
+Consider a network and computer systems 
+administrator, a role that manages and maintains 
+computer networks. They build network systems, 
+ensure that the systems are running and reliable, 
+and monitor usage and access of computer 
+networks and systems. Network and computer 
+systems administrators are increasingly employed 
+to set up and monitor smart infrastructure 
+that improves energy efficiency for buildings. 
+According to Lightcast data, demand for skills 
+related to energy management and conservation 
+grew by 139% from 2018–2023 among network 
+and computer systems administrators. At the 
+same time, core green sector capabilities like 
+impact analysis, product cycle management, and 
+environmental process improvement and safety 
+are increasingly important foundational skills 
+across deeply digital, deeply green, and balanced 
+roles. Many workers are learning these skills on 
+the job, but there is a need for more focused 
+training and education. 
+Skills for a Sustainable Future April 2024 11
+Some roles, especially digital roles, are 
+becoming more specialized. Deeply digital 
+roles, including those that focus on analytics and 
+operations, sales, or design and development, 
+are emerging as specialized green digital jobs. 
+For example, environmental data analysts, 
+which represent a specialization of the broader 
+data analyst role, are now widely prevalent. 
+To complement the foundational analytical 
+capabilities of a data analyst, environmental 
+data analysts need to build skills in Geographic 
+Information Systems (GIS) and spatial analysis, 
+process management, and automation. Critically, 
+they must also build a strong knowledge base 
+in their specific application, such as energy 
+production, environmental science, or chemistry. 
+We have observed similar specializations in 
+fields like sustainable transportation managers 
+– specialists in developing sustainable solutions
+to transportation; and environmental systems
+managers – workers who automate buildings
+and production facilities to be more efficient
+and sustainable. Other digital roles are also
+incorporating green skills into their work. For
+example, roles in cloud computing, cybersecurity,
+AI and machine learning (ML), and automation
+engineering increasingly utilize green skills.
+Energy efficiency is the most critical and soughtafter green skill in the job descriptions that Burning 
+Glass Institute examined.1
+ An understanding and 
+awareness of environmental regulations is critical 
+for success in many of these digital green roles. A 
+cybersecurity analyst for a watershed management 
+firm may be more effective in their role when they 
+understand overall water quality standards and 
+processes required by law.
+1 See Appendix 1 for skills analysis details
+Finally, emergent technologies will also have 
+huge implications on economic activity and 
+energy demand, which will flow through skills 
+required in the labor force. AI, powered by 
+the cloud and enormous advances in large 
+language models (LLMs) and other algorithms, 
+has the potential to be a major boon for the 
+global economy. According to consulting firm 
+McKinsey & Company, generative AI is poised 
+to add $4.4 trillion of economic activity while 
+automating or improving the productivity 
+of key functions such as sales & marketing, 
+customer relations, and R&D and engineering. 
+In the coming decades, new AI applications 
+will redefine the tech, healthcare, finance, and 
+education industries, among others, allowing 
+skilled practitioners and professionals to do 
+more in less time and at a lower cost. However, 
+advances in AI will also mean that we need to 
+ensure energy efficiency and overall energy 
+management – this could be an emerging 
+green-digital role.
+As a result, future technology employees 
+need to be cognizant of the importance of 
+embedding sustainability across their work 
+activities. Model design can play a huge role: 
+redesigning GPT-3 can reduce emissions by as 
+much as 75%. However, efficient model design 
+and optimization of hardware architecture are 
+needs that permeate all of technology. As the 
+green imperative grows, so does the need to 
+ensure that the tech workforce has the skills 
+required to perform their jobs in the greenest 
+way possible.
+Skills for a Sustainable Future April 2024 12
+CASE STUDY
+Field Workers Adopting AI
+The Great Belt Fixed Link is an 11-mile network 
+of bridges and tunnels connecting islands in 
+Denmark, creating a direct link between the 
+islands of Zealand and Funen. The Link enabled 
+road and rail access between the mainland of 
+Denmark and its capital, Copenhagen. It is a 
+critical piece of infrastructure for the country, 
+reducing travel times and ferry traffic to the 
+cities across the country. It has facilitated the 
+use of public transportation and reduced carbon 
+emissions. With the development of the Link, 
+intercity train travel across Denmark now has 
+the largest share of travel. Many intercity flights 
+no longer operate because of the efficiency and 
+predictability of the service.
+Building the Great Belt Fixed Link remains the 
+largest construction project in the history of the 
+country, and maintenance of a critical piece of 
+infrastructure is a massive undertaking with high 
+stakes. Maintaining bridge safety is complex and 
+ever changing. The owner and operator of the 
+bridge, Sund and Baelt Holding A/S, previously 
+hired mountain climbers to scale the bridge and 
+traverse spans, taking pictures of the structure 
+to identify areas in need of maintenance and 
+service. This was labor intensive and time 
+consuming – the bridge has over 300,000 
+square meters of concrete that has to be visually 
+inspected every six years – a very difficult and 
+intensive, manual task.
+Routine and preventative maintenance can 
+significantly expand the life of the bridge, 
+decrease closure time, and improve safety. 
+Several years ago, the company determined that 
+it needed to improve its predictive maintenance 
+capabilities and explored new technologies to 
+increase the productivity and timeliness of their 
+maintenance assessments.
+Sund and Baelt adopted a strategy that used 
+a combination of AI and Internet of Things 
+technologies that make maintenance of the 
+Great Belt Fixed Link significantly safer and 
+more efficient. The firm partnered with IBM to 
+Skills for a Sustainable Future April 2024 13
+develop a solution that is now the IBM Maximo 
+for Civil Infrastructure Suite, an infrastructure 
+asset management platform. It uses AI to deploy 
+drones, read photography from the drones, and 
+compare it to both observed data and models 
+of the bridge and tunnel network. When paired 
+with historical models of traffic loads on the 
+Link, Sund and Baelt is better able to predict its 
+maintenance needs, improving longevity and 
+reducing bridge downtime.
+These changes also have a profound impact on 
+many of the field-based workers like the machinery 
+and industrial maintenance technicians that manage 
+the Great Link Fixed Link, who now manage drones 
+and models from asset management software rather 
+than manually taking pictures. These changes are 
+projected to increase the life of the Fixed Link 
+by 100 years, doubling its estimated lifetime, 
+allowing it to reduce over 750,000 tons of carbon 
+emissions through greater longevity.
+CASE STUDY
+Enhancing Water System Operations Resiliency
+The state of Victoria, Australia is known as the 
+Garden State because of its rainfall and its capital, 
+Melbourne, is known for its extensive greenspace. 
+Greenspace, parks and natural areas, cover 
+19% of the land area in the city. While the city’s 
+greenspace is a significant asset, its management 
+is a challenge – especially as the city is 
+increasingly exposed to extreme weather events 
+from a changing climate. This is especially true 
+for the water and sewer system in Melbourne. 
+For example, in 2018, the city experienced a 
+once-in-a-thousand-year rainfall event – over 
+50 centimeters of rain fell in just 15 minutes – 
+causing flash flooding and power outages. Similar 
+challenges are expected to increase in frequency 
+over time because of expected sea level rise and 
+resultant storm surges.
+Melbourne Water, the city’s water utility, manages 
+the network of infrastructure for stormwater 
+management and its maintenance is central 
+to the city’s ability to manage the increasing 
+Skills for a Sustainable Future April 2024 14
+intensity and frequency of storms. Keeping the 
+network of storm grates clear of debris and open 
+is important to drain water to avoid flooding 
+and damage from storms. The utility adopted an 
+automated monitoring system, based in the cloud 
+and using automated and AI software developed 
+by IBM, to aid in the dispatching of field staff to 
+clear and clean storm grates. 
+Roles at Melbourne Water doing stormwater 
+management are still deeply focused on fieldbased work helping to clean, clear, and maintain 
+infrastructure – this remains the core of their 
+job, but the way workers perform this work has 
+changed. New digital skills have enabled workers 
+and the company to be more targeted and 
+focused on directing field workers and resources 
+to the greatest areas of need – meaning that they 
+keep the system up and running more effectively.
+In the past, maintenance was performed on a 
+rolling basis and if a blockage happened right 
+after an inspection, there could be significant 
+delays in clearing it. Digital monitoring and 
+service dispatch has helped the city and 
+Melbourne Water adapt to increasingly frequent 
+and intense weather events and mitigate the 
+disruptions that those events will cause to 
+city services – an important step in building a 
+sustainable city.
+CASE STUDY
+Upskilling to Reduce Waste
+Manufacturing waste is a significant and 
+prominent contributor to waste production. If 
+input materials enter a manufacturing facility in 
+poor condition or if there are issues with tooling 
+and production processes, the materials or the 
+output may become waste. Similarly, an input 
+material may arrive in a condition that makes 
+it unfit for use, such as a component that was 
+damaged in shipping. Identifying these defects 
+is often difficult and typically driven by human 
+inspection. New digital strategies are helping 
+to drive better identification of component and 
+© nordroden - stock.adobe.com
+Skills for a Sustainable Future April 2024 15
+output defects, leading not only to significant 
+waste reduction, but also to better quality 
+outputs.
+Ford Motor Company found themselves in this 
+very situation. In 2020, Ford produced over 1.7 
+million vehicles with dozens of different trims and 
+feature packages. This results in a highly complex 
+set of intermediate parts and final goods, 
+sometimes causing defects that were not visible 
+or noticed by the human eye.
+Ford explored digital manufacturing strategies 
+that would help advance quality control and 
+augment human inspection strategies. Because 
+of its longstanding excellence in automobile 
+manufacturing, Ford already had a large frontline 
+workforce that was ready to adopt new digital 
+technologies to improve quality and remove 
+waste. However, the company needed to identify 
+strategies that would be implementable without 
+significant downtime for their workforce.
+Ford partnered with IBM to develop a mobilebased AI and ML visual inspection software 
+that is used in assembly plants. The software 
+interfaces with a cloud-based centralized data 
+system that trains the algorithm to identify 
+manufacturing defects and imperfections. Over 
+time, the software improves as humans provide 
+more feedback. In addition, Ford ensured that its 
+workforce was upskilled so that it was ready to 
+use the new software on Day 1, enabling workers 
+to better integrate it into existing workflows. 
+While built as a sophisticated AI software 
+application, frontline workers integrated it into 
+the quality assurance and overall assembly 
+process quickly and efficiently. As a result, Ford’s 
+production quality, speed, and waste have all 
+been greatly improved. Production quality sped 
+the inspection process and reduced overall waste 
+out of the facility.
+The strategy has been successful in identifying 
+defects and reducing potential industrial waste. In 
+addition to reducing waste in combustion engine 
+vehicle manufacturing, in 2022, the IBM mobile 
+visual inspection strategy has expanded its use 
+cases to more complex and innovative use cases 
+including electric vehicle assembly.
+Skills for a Sustainable Future April 2024 16
+US/Canada
+• Environmental science tech
+• Environmental compliance analyst
+• Sustainability analyst
+• Environmental health and safety
+• Infrastructure operator
+Latin America
+• Infrastructure operator
+• Operations analyst
+• Cybersecurity analyst
+• Green sales representative
+• Environmental project manager
+Middle East/Africa
+• Environmental project analyst
+• Environmental health and safety
+specialist
+• Facilities managers
+• Engineering technicians
+Europe
+• Cybersecurity analyst
+• Infrastructure field service tech
+• Environmental health and safety
+specialist
+• Infrastructure operator
+Asia and Pacific
+• Sustainability analyst
+• Environmental project manager
+• Climate/carbon analyst
+• Facilities manager
+• Cybersecurity analyst
+Source: Burning Glass Analysis of Lightcast Job Postings Data
+Early Career Opportunities for Workers by 
+Global Region
+Green and digital roles exist today worldwide. 
+Some roles are broadly available and accessible 
+no matter where a worker is in the world, while 
+others vary by region. Certain skills are critical for 
+competitiveness in the green economy and are 
+often driven by broader skill sets and the global 
+economy in general. BGI analysis identified many 
+roles across the globe that are particularly strong 
+opportunities for early career workers to take an 
+on ramp into green and digital roles. 
+Refer to Appendix 2 for details. 
+Skills for a Sustainable Future April 2024 17
+Conclusion: Building Skills in a Digital and 
+Green Future
+While digital expertise and green expertise are 
+not one and the same, they are intersectional and 
+at that intersection lies a set of opportunities. 
+These are opportunities for workers, for 
+employers and firms, and for civil society.
+Workers can build green digital skills to advance 
+their careers. Workers in the green sector are 
+increasingly adopting digital skills to enhance 
+productivity and efficiency. Workers in the digital 
+realm are seeing a growing demand for green 
+skills to harmonize their work with environmental 
+concerns, align with growing demand for 
+environmentally friendly practices, and help 
+manage finite resources. But these are not the 
+only trends. Sitting at the specialization of digitalgreen intersections are specialized roles that 
+focus heavily on sustainability concerns from a 
+digital perspective. These emerging roles create 
+new and exciting opportunities and complexity.
+Employers and firms are demanding green and 
+digital skills. Our analysis shows that firms are 
+looking for green skills among digital workers and 
+digital skills for green workers. Well-refined digital 
+skills can help firms be good stewards of resources 
+– from energy to natural resources and help them
+be more effective in their businesses that produce
+goods that impact the environment. These
+growing demands are evident across many sectors
+– they are seen in forestry with the adoption of
+AI just as they are seen in the technology and
+finance sector with the adoption of conservation
+and energy efficiency strategies. These improve
+sustainability, but also affect the bottom line.
+Digital-green workers will drive a sustainable, 
+opportunity rich future. Skilling programs at the 
+intersection of digital and green skills will help 
+drive sustainable and climate resilient outcomes 
+for society. Additionally, by equipping workers 
+in traditionally green roles with advanced digital 
+skills, they will become more productive and 
+effective in their roles. In addition to blended 
+digital and green roles, we continue to see 
+growth in demand for digital skills in green roles. 
+How can this emerging opportunity be more 
+fully realized? First is building skills that sit 
+at the intersection of digital and green skill 
+demands. Digital strategies and technologies 
+will greatly expand the efficacy of deeply fieldbased work – as is supported throughout the 
+case studies in this report – from maintaining 
+and extending the life of physical assets to 
+deploying new crop management strategies, 
+digital skills help make those efforts more 
+efficient and help scale the intervention 
+strategies significantly. In many cases they also 
+help lower barriers to entry and make smaller 
+scale enterprises more competitive.
+Our analysis identifies gaps in the skills that 
+workers have and the skills that the market is 
+demanding for digital and green work. While 
+there is a current gap, it is surmountable with 
+skill building at scale – often the necessary skills 
+can be learned or taught through flexible and 
+digital venues. Deploying upskilling for in demand 
+digital and green skills can happen through online 
+learning platforms like IBM’s SkillsBuild. We 
+encourage workers, educators, and employers to 
+think about the changes in their companies at the 
+intersection of digital and green skills and identify 
+a plan or partner to help advance upskilling. 
+These steps can help to meet the digital and 
+green skills demand we observe. 
+Skills for a Sustainable Future April 2024 18
+Finally, while blending digital and green skills 
+will drive innovation in work, there will also be 
+transformation as complex and emergent new 
+combinations of skills drive greener and more 
+sustainable work. These deeply intertwined 
+trends are more than the sum of their parts: new 
+specializations are beginning to emerge between 
+these roles that we previously have not observed. 
+Going forward, we expect they will continue to 
+emerge more significantly and create a digitallyenabled, sustainable future.
+Learn More 
+Do you want to help make a more sustainable world? 
+Join the Green and Digital Revolution!
+Learn skills like artificial intelligence and machine learning, data analysis, data visualization, 
+and automation and learn about how they can drive green jobs and a sustainable future. 
+IBM SkillsBuild offers courses at the intersection of green and digital skills.
+https://skillsbuild.org/ 
+Skills for a Sustainable Future April 2024 19
+Demand for key skills in crucial roles
+Application Avg. % of JDs Requiring Skill
+Energy Efficiency - % of Skill Demanded Across All Roles
+Cloud Computing 30.8%
+Al /ML 29.3%
+Cyber 30.0%
+Automation Engineering 86.9%
+Environmental Regulations - % of Skill Demanded Across All Roles
+Cloud Computing 21.9%
+Al /ML 13.0%
+Cyber 23.2%
+Automation Engineering 10.3%
+Environmental and Resource Management - % of Skill Demanded Across All Roles
+Cloud Computing 13.4%
+Al /ML 16.3%
+Cyber 19.6%
+Automation Engineering 2.0%
+Water Management - % of Skill Demanded Across All Roles
+Cloud Computing 6.3%
+Al /ML 13.3%
+Cyber 9.1%
+Automation Engineering 15.8%
+APPENDIX 1:
+Skills Analysis
+To assess the demand for green skills, Burning 
+Glass Institute collected data on millions of 
+current and past jobholders, and on more than 
+100,000 job descriptions, across roles in four key 
+areas: AI and ML, cloud computing, cybersecurity, 
+and automation engineering. Within each of 
+these areas, BGI collected information on specific 
+jobs, such as software developers, computer 
+systems engineers, and line managers. In the next 
+decade, these roles will create millions of new 
+jobs, account for trillions of economic activities, 
+and determine the direction of tech hiring.
+Although the demand for green skills has been 
+growing overall, a few skills were in higher 
+demand, as the following table shows:
+Source: Burning Glass Institute Analysis of Lightcast Job Postings Data
+Skills for a Sustainable Future April 2024 20
+Unsurprisingly, energy efficiency is a key skill for 
+all four subsectors given the energy demands 
+of the tech sector. The need is especially acute 
+for automation engineers, but roughly 30% 
+of cloud, AI, and cyber roles also emphasize 
+energy efficiency. Short-form training programs 
+are especially well-suited to energy efficiency. 
+In the tech sector, data center engineers can 
+be trained in energy-efficient ways to cool 
+data centers and minimize water use. Video 
+instruction can outline best practices about the 
+cost and the environmental implications of better 
+heat dissipation. This aligns private incentives 
+(reducing electricity bills and overheating) 
+with public environmental incentives (reducing 
+emissions related to overuse of electricity).
+Environmental regulations, and resource and 
+water management, are emerging skill areas for 
+tech, with 15–20% of job descriptions requiring 
+the skill in some areas. While not as ubiquitous 
+as energy efficiency, these skills will continue 
+to grow in demand over time as additional 
+reporting requirements are put in place (for 
+example, forthcoming SEC regulations on 
+Scope 1–3 emissions). Conversely, skills such as 
+conservation and clean energy are not frequently 
+listed in job descriptions (usually low single-digit 
+percentages). This suggests that background 
+knowledge, while useful for understanding the 
+rationale behind decarbonizing the tech industry, 
+is not as valued by employers, who are much 
+more focused on bottom-line cost and energy 
+issues. To be more relevant and effective, green 
+training should focus on areas that have direct 
+implications on company performance such as 
+energy efficiency and water management. 
+Skills for a Sustainable Future April 2024 21
+APPENDIX 2:
+Global Skills
+The confluence of green and digital skills is 
+a global phenomenon. Yet the trends show 
+the unique contours of different parts of the 
+globe. Exploring these trends regionally helps 
+identify the economic opportunities for workers 
+and learners and prioritize where countries, 
+educational institutions, and employers can make 
+investments in skill building.
+ To localize the global analysis, we investigated 
+trends in several global markets, with a focus 
+on early career opportunities at the intersection 
+of green and digital skills. We examined the 
+following regions:
+• US and Canada
+• Europe
+• Asia and the Pacific
+• Mexico and Latin America
+• Africa and the Middle East
+There were several important trends that were 
+clear and evident across these global regions. 
+In the US, Canada, Europe, Asia, and the 
+Pacific, many of the greatest opportunities at 
+the confluence of green and digital roles are 
+in the fields of analytics and green business 
+management – deeply digital, green-specialized 
+roles. This concentration of roles suggests that 
+these markets have significant demand for skill 
+development in analytics and visualization. 
+Focusing on early career development in these 
+markets often implies that workers will need to 
+build skills through educational experiences. 
+Some learners may attend college to build the 
+skills necessary to serve in these roles, others 
+may build them through work experience and 
+innovative new learning experiences – but 
+strong foundations in core digital skills like 
+analytics are key.
+Other markets like Mexico, Latin America, 
+Africa, and the Middle East see significant 
+opportunities in digitizing skilled technical 
+work in major energy production and major 
+manufacturing plant operations. Developing new 
+skills and competencies across the workforces 
+in these regions should include building skills 
+in automation, particularly to make processes 
+greener and more sustainable at major 
+production facilities and in major infrastructure 
+operations. Automation skills include training and 
+developing AI and machine learning processes to 
+support industrial production, manufacturing, and 
+management of infrastructure.
+Skills for a Sustainable Future April 2024 22
+References
+“Building Bridges to Better Insight” IBM. 2021 https://www.ibm.com/case-studies/sund-and-baelt
+“Climate Change 2022: Impacts, Adaptation and Vulnerability,” Intergovernmental Panel on Climate 
+Change. United Nations, 2022. https://www.ipcc.ch/report/ar6/wg2/
+“Explaining Extreme Events from a Climate Perspective,” American Meteorological Society, accessed 
+June 6, 2023, https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-americanmeteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/
+“Efforts to Link Climate Change to Severe Weather Gain Ground,” American Association 
+for the Advancement of Science, 2016. https://www.science.org/doi/10.1126/
+science.351.6279.1249#:~:text=To%20make%20the%20link%2C%20researchers,the%20risk%20of%20
+heat%20waves
+“Ford Presents Its Prestigious Innovation Award to IBM” IBM. 2021. 
+https://www.ibm.com/blog/ford-it-innovation-award-ibm/
+“Green Jobs: U.S. Bureau of Labor Statistics,” accessed June 7, 2023, https://www.bls.gov/green/home.htm 
+“Green economy,” UNEP - UN Environment Programme, October 23, 2018, 
+http://www.unep.org/pt-br/node/23750
+“Optimization could cut the carbon footprint of AI training by up to 75%” University of Michigan School 
+of Engineering. 2023. 
+https://news.engin.umich.edu/2023/04/optimization-could-cut-the-carbon-footprint-of-ai-training-by-up-to-75/
+“The economic potential of generative AI: The next productivity frontier” McKinsey & Company. 2023. 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-ofgenerative-ai-the-next-productivity-frontier#introduction
+“This Is How Climate Change Could Impact the Global Economy,” World Economic Forum, June 28, 
+2021, https://www.weforum.org/agenda/2021/06/impact-climate-change-global-gdp/
+“Towards Zero Waste Manufacturing: A Multidisciplinary Review,” Journal of Cleaner Production 168 
+(December 1, 2017): 1230–43, https://doi.org/10.1016/j.jclepro.2017.09.108
+“Uncovering opportunities to reduce energy consumption and emissions with the IBM Envizi ESG 
+Suite,” IBM. 2023 https://www.ibm.com/case-studies/melbourne-water-envizi
+“Waste Elimination for Manufacturing Sustainability,” Procedia Manufacturing, 2nd International 
+Materials, Industrial, and Manufacturing Engineering Conference. February 2015, 
+https://doi.org/10.1016/j.promfg.2015.07.003
+APRIL 2024
+Skills for a Sustainable Future:
+How Green and Digital Skills Intersect 
+and Will Change the Future of Work
